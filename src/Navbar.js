@@ -18,7 +18,7 @@ const Navbar=()=>{
                 <li><a href="www.google.com"><TwitterIcon/></a></li>
                 <li><a href="www.google.com"><InstagramIcon/></a></li>
                 <li><a href="www.google.com"><LinkedInIcon/></a></li>
-                {/* <li><a href="www.google.com"></a></li> */}
+        
             </ul>
         </nav>
     )
